@@ -5,6 +5,8 @@ Description of the project.
 Description of license
 ## GitHub
 Find the 
-
-
-Rules to follow for publishing GitHub content to IDZ
+## Get Started
+## Requirements
+## Resources/Learn More
+## Support
+## Guidelines 
