@@ -1,10 +1,10 @@
 # Name
-## Overview
+## Overview (Do not use Introduction)
 Description of the project. 
 ## License
 Description of license
-## GitHub
-Find the 
+## GitHub Documentation
+Links to GitHUb
 ## Get Started
 ## Requirements
 ## Resources/Learn More
