@@ -1,13 +1,18 @@
 # Product name
 ## Overview 
-Description of the project. 
+Add Description of the project... 
 ## License
-Description of license
+Add information about the license...
 ## Product Documentation
-Links to GitHUb
+Add Links back to GitHub...
 ## Requirements
+
 ## Get Started
 ### Installation
+Add Install steps
 ## Summary and Next Steps
 ## Learn More
+To continue your learning, see the following guides and software resources:
+- Bullet list
 ## Support
+If you're unable to resolve your issues, contact 
