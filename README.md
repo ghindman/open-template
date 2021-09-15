@@ -3,13 +3,11 @@
 Description of the project. 
 ## License
 Description of license
-## GitHub Documentation
+## Product Documentation
 Links to GitHUb
+## Requirements
 ## Get Started
 ### Installation
-## Requirements
 ## Summary and Next Steps
 ## Learn More
 ## Support
-
-
