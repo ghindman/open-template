@@ -20,6 +20,6 @@ As a next step, try the following:
 ## Learn More
 To continue your learning, see the following guides and software resources:
 - Bullet list
--
+
 ## Support
 If you're unable to resolve your issues, contact [link to contact info]
