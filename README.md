@@ -1,14 +1,16 @@
-# Product name
+# Project name
 ## Overview 
 Add Description of the project... 
 ## License
 Add information about the license...
-## Product Documentation
+## Project Documentation
 Add Links back to GitHub...
-## Requirements
+## System Requirements and Dependencies
 - Bullet list
 
 ## Get Started
+### How to Build
+Add Build steps...
 ### Installation
 Add Install steps...
 
